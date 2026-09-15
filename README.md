@@ -1,2 +1,3 @@
-# .github
-Public organization profile and shared community files for ASCi Consulting.
+# ASCi Consulting GitHub profile
+
+This repository contains the public organization profile and shared GitHub configuration for ASCi Consulting.
